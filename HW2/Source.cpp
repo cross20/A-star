@@ -1,9 +1,9 @@
-/*
- //A* Search Algorithm
- //Chad Ross and Tim Bruggeman
- //AI, Homework 2
- //Edited on: 02/20/2018
-*/
+//
+//A* Search Algorithm
+//Chad Ross and Tim Bruggeman
+//AI, Homework 2
+//Edited on: 02/20/2018
+//
 
 
 #include <iostream>
